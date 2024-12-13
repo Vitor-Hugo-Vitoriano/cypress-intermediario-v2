@@ -6,3 +6,4 @@ Cypress.Commands.add('cloneViaSSH', project => {
   //http://localhost/root/project-96dd20cb-33f5-48c4-9ed5-b5b71193ab49.git
 
 })
+
